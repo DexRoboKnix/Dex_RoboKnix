@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use DEXSPINE in your research or project, please cite it as below."
+authors:
+  - family-names: "Cheeseman"
+    given-names: "Dan"
+    alias: "Dex Roboknix"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DEXSPINE: Universal Cognitive Extraction Protocol"
+version: 1.0.0
+date-released: 2026-02-10
+url: "https://github.com/DexRoboKnix/Dex_RoboKnix"
+repository-code: "https://github.com/DexRoboKnix/Dex_RoboKnix"
+keywords:
+  - "large language models"
+  - "prompt engineering"
+  - "cognitive architecture"
+  - "structured extraction"
+  - "LLM frameworks"
+  - "AI operations"
+  - "system auditing"
+license: "AGPL-3.0-or-later"
+abstract: >
+  DEXSPINE is a rigid cognitive extraction protocol that forces Large 
+  Language Models to produce complete, structured analyses across 114 
+  nodes and 6 architectural layers. It eliminates hallucination in 
+  structural audits by enforcing mathematical constraints: 8 Plan + 
+  3 MVE + 8 Execute = 19 nodes per layer × 6 layers = 114 total nodes.
+  The protocol has been empirically validated across four frontier 
+  models (Claude Sonnet 4.5, Gemini 3 Pro, Grok, DeepSeek) with 100% 
+  structural compliance.
+references:
+  - type: article
+    authors:
+      - family-names: "Cheeseman"
+        given-names: "Dan"
+    title: "DEXSPINE Multi-Model Validation Report: Comparative Analysis of Cognitive Extraction Across Frontier LLMs"
+    year: 2026
+    url: "https://github.com/DexRoboKnix/Dex_RoboKnix/blob/main/docs/ANALYSIS_REPORT.md"
+contact:
+  - email: "daniel.cheeseman@me.com"
+    name: "Dan Cheeseman / Dex Roboknix"
