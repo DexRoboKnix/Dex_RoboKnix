@@ -239,7 +239,7 @@ Every node name, every layer definition, every constraint was tested empirically
 
 1. **Upload the protocol file** to your LLM interface (Claude, ChatGPT, Gemini, etc.)
 
-   - File: [`specs/DEXSPINE_Full_838.md`](./specs/DEXSPINE_Full_838.md)
+   - File: [`specs/DEXSPINE_Full_838.md`](./specs/DEXSPINE_Full_838_v1.0.md)
 
 2. **Execute with a single query:**
 
